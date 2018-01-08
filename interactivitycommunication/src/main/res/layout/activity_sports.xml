@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.inter_activity.SportsActivity"
+    tools:layout_editor_absoluteY="81dp">
+
+    <CheckBox
+        android:id="@+id/cheAndriod"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="35dp"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="63dp"
+        android:text="Android"
+        app:layout_constraintBottom_toTopOf="@+id/cheApple"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <CheckBox
+        android:id="@+id/cheApple"
+        android:layout_width="150dp"
+        android:layout_height="37dp"
+        android:layout_marginBottom="45dp"
+        android:text="Apple"
+        app:layout_constraintBottom_toTopOf="@+id/cheWindows"
+        app:layout_constraintStart_toStartOf="@+id/cheAndriod"
+        app:layout_constraintTop_toBottomOf="@+id/cheAndriod" />
+
+    <CheckBox
+        android:id="@+id/cheWindows"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="241dp"
+        android:layout_marginStart="55dp"
+        android:text="Windows"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cheApple" />
+
+    <TextView
+        android:id="@+id/txtcmp"
+        android:layout_width="93dp"
+        android:layout_height="35dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="txtcomp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.239"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.66" />
+
+    <Button
+        android:id="@+id/btnOK"
+        android:layout_width="wrap_content"
+        android:layout_height="46dp"
+        android:layout_marginBottom="100dp"
+        android:layout_marginEnd="48dp"
+        android:text="Ok"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+</android.support.constraint.ConstraintLayout>

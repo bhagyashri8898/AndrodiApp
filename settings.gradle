@@ -1,0 +1,1 @@
+include ':apps', ':layouts', ':whatsapp_screen', ':interactivitycommunication', ':gridview', ':compoundview', ':adapterview', ':customview', ':animationview', ':activitylifecycle', ':providingresource'

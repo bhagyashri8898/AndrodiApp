@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyProject.iml" filepath="$PROJECT_DIR$/MyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activitylifecycle/activitylifecycle.iml" filepath="$PROJECT_DIR$/activitylifecycle/activitylifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapterview/adapterview.iml" filepath="$PROJECT_DIR$/adapterview/adapterview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animationview/animationview.iml" filepath="$PROJECT_DIR$/animationview/animationview.iml" />
+      <module fileurl="file://C:\Users\Bhagyashri\AndroidStudioProjects\MyProject\Apps\app.iml" filepath="C:\Users\Bhagyashri\AndroidStudioProjects\MyProject\Apps\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/apps.iml" filepath="$PROJECT_DIR$/apps/apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compoundview/compoundview.iml" filepath="$PROJECT_DIR$/compoundview/compoundview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridview/gridview.iml" filepath="$PROJECT_DIR$/gridview/gridview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interactivitycommunication/interactivitycommunication.iml" filepath="$PROJECT_DIR$/interactivitycommunication/interactivitycommunication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layouts/layouts.iml" filepath="$PROJECT_DIR$/layouts/layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/providingresource/providingresource.iml" filepath="$PROJECT_DIR$/providingresource/providingresource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whatsapp_screen/whatsapp_screen.iml" filepath="$PROJECT_DIR$/whatsapp_screen/whatsapp_screen.iml" />
+    </modules>
+  </component>
+</project>
