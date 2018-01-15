@@ -8,16 +8,29 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Fragments" />
             <option value="$PROJECT_DIR$/activitylifecycle" />
             <option value="$PROJECT_DIR$/adapterview" />
+            <option value="$PROJECT_DIR$/alternativeresources" />
             <option value="$PROJECT_DIR$/animationview" />
             <option value="$PROJECT_DIR$/apps" />
             <option value="$PROJECT_DIR$/compoundview" />
             <option value="$PROJECT_DIR$/customview" />
+            <option value="$PROJECT_DIR$/fragment" />
+            <option value="$PROJECT_DIR$/fragment2" />
+            <option value="$PROJECT_DIR$/fragment3" />
+            <option value="$PROJECT_DIR$/fragments1" />
+            <option value="$PROJECT_DIR$/fragments2" />
+            <option value="$PROJECT_DIR$/fragments3" />
+            <option value="$PROJECT_DIR$/fragments4" />
+            <option value="$PROJECT_DIR$/fragments7" />
+            <option value="$PROJECT_DIR$/fragments8" />
+            <option value="$PROJECT_DIR$/fragmentss" />
             <option value="$PROJECT_DIR$/gridview" />
             <option value="$PROJECT_DIR$/interactivitycommunication" />
             <option value="$PROJECT_DIR$/layouts" />
             <option value="$PROJECT_DIR$/providingresource" />
+            <option value="$PROJECT_DIR$/simplevalueresources" />
             <option value="$PROJECT_DIR$/whatsapp_screen" />
           </set>
         </option>

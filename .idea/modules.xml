@@ -2,18 +2,31 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fragments/Fragments.iml" filepath="$PROJECT_DIR$/Fragments/Fragments.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyProject.iml" filepath="$PROJECT_DIR$/MyProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/activitylifecycle/activitylifecycle.iml" filepath="$PROJECT_DIR$/activitylifecycle/activitylifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/adapterview/adapterview.iml" filepath="$PROJECT_DIR$/adapterview/adapterview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alternativeresources/alternativeresources.iml" filepath="$PROJECT_DIR$/alternativeresources/alternativeresources.iml" />
       <module fileurl="file://$PROJECT_DIR$/animationview/animationview.iml" filepath="$PROJECT_DIR$/animationview/animationview.iml" />
       <module fileurl="file://C:\Users\Bhagyashri\AndroidStudioProjects\MyProject\Apps\app.iml" filepath="C:\Users\Bhagyashri\AndroidStudioProjects\MyProject\Apps\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/apps/apps.iml" filepath="$PROJECT_DIR$/apps/apps.iml" />
       <module fileurl="file://$PROJECT_DIR$/compoundview/compoundview.iml" filepath="$PROJECT_DIR$/compoundview/compoundview.iml" />
       <module fileurl="file://$PROJECT_DIR$/customview/customview.iml" filepath="$PROJECT_DIR$/customview/customview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment/fragment.iml" filepath="$PROJECT_DIR$/fragment/fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment2/fragment2.iml" filepath="$PROJECT_DIR$/fragment2/fragment2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragment3/fragment3.iml" filepath="$PROJECT_DIR$/fragment3/fragment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragments1/fragments1.iml" filepath="$PROJECT_DIR$/fragments1/fragments1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragments2/fragments2.iml" filepath="$PROJECT_DIR$/fragments2/fragments2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragments3/fragments3.iml" filepath="$PROJECT_DIR$/fragments3/fragments3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragments4/fragments4.iml" filepath="$PROJECT_DIR$/fragments4/fragments4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragments7/fragments7.iml" filepath="$PROJECT_DIR$/fragments7/fragments7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragments8/fragments8.iml" filepath="$PROJECT_DIR$/fragments8/fragments8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentss/fragmentss.iml" filepath="$PROJECT_DIR$/fragmentss/fragmentss.iml" />
       <module fileurl="file://$PROJECT_DIR$/gridview/gridview.iml" filepath="$PROJECT_DIR$/gridview/gridview.iml" />
       <module fileurl="file://$PROJECT_DIR$/interactivitycommunication/interactivitycommunication.iml" filepath="$PROJECT_DIR$/interactivitycommunication/interactivitycommunication.iml" />
       <module fileurl="file://$PROJECT_DIR$/layouts/layouts.iml" filepath="$PROJECT_DIR$/layouts/layouts.iml" />
       <module fileurl="file://$PROJECT_DIR$/providingresource/providingresource.iml" filepath="$PROJECT_DIR$/providingresource/providingresource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplevalueresources/simplevalueresources.iml" filepath="$PROJECT_DIR$/simplevalueresources/simplevalueresources.iml" />
       <module fileurl="file://$PROJECT_DIR$/whatsapp_screen/whatsapp_screen.iml" filepath="$PROJECT_DIR$/whatsapp_screen/whatsapp_screen.iml" />
     </modules>
   </component>

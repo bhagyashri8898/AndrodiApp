@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragments7</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnbk">Bike</string>
+    <string name="btnPln">Plan</string>
+    <string name="btnRal">Rail</string>
+</resources>

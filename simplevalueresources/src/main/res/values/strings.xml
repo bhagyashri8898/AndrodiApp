@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SimpleValueResources</string>
+    <string name="btnOk">Ok</string>
+    <string name="txtinfo">info</string>
+    <string name="textview">TextView</string>
+
+
+    <string-array  name="mob">
+        <item> dell </item>
+        <item> moto </item>
+        <item> redmi</item>
+    </string-array>
+</resources>
+
+
+
+
